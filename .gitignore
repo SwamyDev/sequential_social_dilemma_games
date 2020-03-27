@@ -120,3 +120,4 @@ dmypy.json
 /videos/*
 
 *.mp4
+*.done
